@@ -24,27 +24,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```python
-class AdityaKumar:
-    def __init__(self):
-        self.name = "Aditya Kumar"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        
-    def current_focus(self):
-        return [
-            "🔬 Computer Vision & YOLOv8",
-            "🧠 Large Language Models",
-            "🤖 Agentic AI & RAG Pipelines",
-            "⚡ Full-Stack AI Applications"
-        ]
-    
-    def fun_fact(self):
-        return "I turn ☕ into 🤖 with 98.8% accuracy!"
-
-me = AdityaKumar()
-```
-
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
