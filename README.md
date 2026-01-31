@@ -77,10 +77,12 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adi51244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi51244&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adi51244&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Adi51244&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adi51244&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi51244&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adi51244&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" alt="GitHub Trophies" />
 
 </div>
 
